@@ -1,0 +1,12 @@
+{
+  "name": "ItoS",
+  "displayName": "ItoS",
+  "expo": {
+    "name": "ItoS",
+    "slug": "ItoS",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
